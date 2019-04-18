@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-
+programmer_hash[:agile_method] = "Scrum"
 end
 
 def changing_alan
