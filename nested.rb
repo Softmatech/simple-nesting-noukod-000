@@ -61,8 +61,6 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-# add the following information to the top level of programmer_hash
-
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -84,7 +82,7 @@ programmer_hash[:yukihiro_matsumoto] = {
    :languages => ["LISP", "C"]
 }
 
-programmer_hash[:agile_method]
+programmer_hash[:yukihiro_matsumoto]
 end
 
 def changing_alan
